@@ -1,0 +1,7 @@
+accelerate==1.6.0
+evaluate==0.4.3
+rouge_score==0.1.2
+scikit-learn==1.6.1
+torchaudio==2.7.0+cu126
+torchvision==0.22.0+cu126
+transformers==4.51.3
